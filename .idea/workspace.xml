@@ -4,7 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36685c30-9dbd-42db-9c97-65819ea0c37d" name="Changes" comment="" />
+    <list default="true" id="36685c30-9dbd-42db-9c97-65819ea0c37d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/font/CentraNo2-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/font/CentraNo2-Book.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/font/CentraNo2-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/arrow1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/arrow2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/banner-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/color-sharp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/color-sharp2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/contact-img.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/footer-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/header-img.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/meter1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/meter2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/meter3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/nav-icon1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/nav-icon2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/nav-icon3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/project-img1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/project-img2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/project-img3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Banner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MailChimpForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NavBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Newsletter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ProjectCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Projects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Skills.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,13 +59,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/rucha/personal-portfolio/src/assets"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/rucha/personal-portfolio/src/assets&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/assets" />
@@ -43,5 +81,8 @@
       <updated>1688621292622</updated>
     </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
   </component>
 </project>
